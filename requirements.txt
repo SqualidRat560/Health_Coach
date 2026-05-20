@@ -1,0 +1,4 @@
+numpy
+anthropic
+python-dotenv
+flask
