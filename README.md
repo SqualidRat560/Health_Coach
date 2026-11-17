@@ -1,5 +1,11 @@
 # Health Coach: early-warning health monitoring agent
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hackathon-Sun Life](https://img.shields.io/badge/Hackathon-Sun_Life-2c5364?style=for-the-badge)
+
 This is a team hackathon project (Sun Life challenge). It watches daily health signals for gradual decline and escalates a risk tier as a pattern emerges. A Claude-powered agent then explains *why* in plain language, with Canada-specific guidance such as province-level 811 nurse-line advice and seasonal vitamin-D risk.
 
 **My part:** the Flask web server and the JSON API that drives the dashboard.
